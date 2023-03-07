@@ -11,8 +11,6 @@ public class Stars {
                     System.out.print(template);
                     if (j != m - 1) {
                         System.out.print(" ");
-                    } else {
-                        System.out.print("");
                     }
                 }
                 System.out.println();
