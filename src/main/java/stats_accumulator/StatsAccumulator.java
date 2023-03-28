@@ -1,4 +1,4 @@
-package src.stats_accumulator;
+package stats_accumulator;
 
 public interface StatsAccumulator {
     /**

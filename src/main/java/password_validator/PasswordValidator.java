@@ -1,4 +1,4 @@
-package src.password_validator;
+package password_validator;
 
 import java.util.regex.Pattern;
 

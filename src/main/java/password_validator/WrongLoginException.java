@@ -1,4 +1,4 @@
-package src.password_validator;
+package password_validator;
 
 public class WrongLoginException extends Exception {
     public WrongLoginException(String message) {

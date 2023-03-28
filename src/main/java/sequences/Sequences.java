@@ -1,4 +1,4 @@
-package src.sequences;
+package sequences;
 
 public interface Sequences {
     /**

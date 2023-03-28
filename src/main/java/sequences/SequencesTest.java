@@ -1,4 +1,4 @@
-package src.sequences;
+package sequences;
 
 public class SequencesTest {
     public static void main(String[] args) {

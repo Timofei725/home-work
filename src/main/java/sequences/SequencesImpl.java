@@ -1,4 +1,4 @@
-package src.sequences;
+package sequences;
 
 public class SequencesImpl implements Sequences {
     //These four methods below have been written

@@ -1,4 +1,4 @@
-package src.transliterator;
+package transliterator;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package src.stats_accumulator;
+package stats_accumulator;
 
 public class StatsAccumulatorIml implements StatsAccumulator {
     private int minNumber = Integer.MAX_VALUE;

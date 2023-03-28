@@ -1,4 +1,4 @@
-package src.snils_validator;
+package snils_validator;
 
 public interface SnilsValidator {
     /**

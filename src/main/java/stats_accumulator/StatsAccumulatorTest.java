@@ -1,4 +1,4 @@
-package src.stats_accumulator;
+package stats_accumulator;
 
 public class StatsAccumulatorTest {
     public static void main(String[] args) {

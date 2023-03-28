@@ -1,4 +1,4 @@
-package src.transliterator;
+package transliterator;
 
 public class TransliteratorTest {
 

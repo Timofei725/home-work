@@ -1,4 +1,4 @@
-package src.password_validator;
+package password_validator;
 
 public class PasswordValidatorTest {
     public static void main(String[] args) {

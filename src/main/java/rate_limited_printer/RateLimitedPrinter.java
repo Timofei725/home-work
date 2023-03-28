@@ -1,4 +1,4 @@
-package src.rate_limited_printer;
+package rate_limited_printer;
 
 public class RateLimitedPrinter implements Printable {
     private int interval;
