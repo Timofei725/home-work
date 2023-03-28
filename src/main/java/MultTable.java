@@ -1,3 +1,4 @@
+
 public class MultTable {
     public static void main(String[] args) {
         String format = "%d x %d = %d";
