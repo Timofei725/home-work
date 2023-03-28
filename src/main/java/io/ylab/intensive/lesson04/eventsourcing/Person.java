@@ -9,6 +9,8 @@ public class Person {
   public Person() {
   }
 
+
+
   public Person(Long id, String name, String lastName, String middleName) {
     this.id = id;
     this.name = name;
@@ -46,5 +48,14 @@ public class Person {
 
   public void setMiddleName(String middleName) {
     this.middleName = middleName;
+  }
+  @Override
+  public String toString() {
+    return "Person{" +
+            "id=" + id +
+            ", name='" + name + '\'' +
+            ", lastName='" + lastName + '\'' +
+            ", middleName='" + middleName + '\'' +
+            '}';
   }
 }

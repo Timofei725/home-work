@@ -1,4 +1,4 @@
-package src.io.ylab.intensive.lesson04.movie;
+package io.ylab.intensive.lesson04.movie;
 
 class Movie {
   private Integer year;
@@ -82,4 +82,5 @@ class Movie {
   public void setAwards(Boolean awards) {
     this.awards = awards;
   }
+
 }

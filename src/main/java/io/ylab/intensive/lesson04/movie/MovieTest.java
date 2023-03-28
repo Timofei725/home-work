@@ -12,11 +12,11 @@ public class MovieTest {
         DataSource dataSource = initDb();
         MovieLoader movieLoader = new MovieLoaderImpl(dataSource);
 
-        File dataFile = new File("movies.csv");
+        File dataFile = new File("src/main/java/io/ylab/intensive/lesson04/movie/movies.csv");
         movieLoader.loadData(dataFile);
 
         /**
-         * Тут написать в комментариях запрос получения всех
+         * SELECT subject, COUNT(*) FROM movie GROUP BY subject
          */
     }
 
